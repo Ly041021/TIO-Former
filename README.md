@@ -1,40 +1,21 @@
-<div align="center">
+<h1 align="center">TIO-Former</h1>
 
-# TIO-Former
+<p align="center">
+  Official code repository
+</p>
 
-### Official Repository
-
-**Paper: Coming Soon** · **Project Page: Coming Soon** · **Code: Coming Soon**
-
-</div>
+<p align="center">
+  <strong>Code release coming soon.</strong>
+</p>
 
 ---
 
-> [!IMPORTANT]
-> **The official release is currently being prepared.**
->
-> This repository will host the source code, pretrained models, and reproducibility instructions for **TIO-Former**.
+This repository will host the official implementation of **TIO-Former** and the supporting materials for reproducing the experiments reported in the accompanying paper.
 
-## About
+## Code Availability
 
-TIO-Former is an ongoing research project. The paper, method details, and experimental results will be added when they become publicly available.
+The implementation is being prepared for public release. Source code and model checkpoints are not yet available in this repository.
 
-## Release Plan
+The planned release includes training and inference code, pretrained model checkpoints, experiment configurations, and instructions for data preparation and evaluation.
 
-- [ ] Paper and project page
-- [ ] Inference code
-- [ ] Training code and configurations
-- [ ] Pretrained model checkpoints
-- [ ] Data preparation and evaluation instructions
-
-## News
-
-- **2026-09-14** — Repository initialized. The public release is in preparation.
-
-## Citation
-
-Citation information will be provided with the paper release.
-
-## Contact
-
-For questions or updates, please open an issue in this repository.
+Release updates and usage documentation will be published here as the materials become available.
