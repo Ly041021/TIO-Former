@@ -1,25 +1,21 @@
-<h1 align="center">TIO-Former</h1>
+<div align="center">
+<h1>TIO-Former</h1>
 
-<p align="center">
-  Official repository for <strong>TIO-Former</strong>
-</p>
+<img src="https://img.shields.io/badge/Code-Coming_Soon-345779" alt="Code: Coming Soon">
+<img src="https://img.shields.io/badge/Models-Coming_Soon-6b7280" alt="Models: Coming Soon">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Coming%20Soon-345779?style=flat-square" alt="Code: Coming Soon">
-</p>
+Official repository for **TIO-Former**.
 
----
+**Code and pretrained models coming soon.**
 
-## Code Release
+</div>
 
-**The code and pretrained models will be released here.**
+### Updates
 
-We are preparing the official implementation of TIO-Former for public release, together with the configurations and documentation needed to reproduce the experiments in the paper.
+- [Sep 14, 2026] Repository created. Code and pretrained models will be released here.
 
-### Planned Release
+### Code and Pretrained Models
 
-- [ ] **Implementation** — training, inference, and evaluation code.
-- [ ] **Pretrained models** — model checkpoints and corresponding experiment configurations.
-- [ ] **Reproducibility documentation** — environment setup, data preparation, and instructions for reproducing the reported results.
+The official implementation is being prepared for release. We will provide training and evaluation code, pretrained model checkpoints, and experiment configurations, together with instructions for installation, data preparation, and inference.
 
-Release announcements will be posted in this repository. Thank you for your interest in our work.
+Please stay tuned for updates.
