@@ -10,6 +10,10 @@ Official repository for **TIO-Former**.
 
 </div>
 
+<p align="center">
+  <img src="assets/model_architecture.png" alt="TIO-Former architecture" width="100%">
+</p>
+
 ### Updates
 
 - [Sep 14, 2026] Repository created. Code and pretrained models will be released here.
