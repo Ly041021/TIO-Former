@@ -10,7 +10,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Coming_Soon-2f855a)
 
 Yang Liu · Yifan He · Wenhao Zhao · Xiangyu Mo · Yang Xu · Hao Wei<br>
-Mingze Ma · Huan Li · Yifan Wu · Zipeng Dai · Xin Zhou · Fei Gao
+Mingze Ma · Huan Li · Yifan Wu · Fei Gao · Zipeng Dai · Xin Zhou
 
 Zhejiang University · Differential Robotics
 
