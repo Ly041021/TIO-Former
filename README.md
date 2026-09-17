@@ -12,7 +12,9 @@
 Yang Liu · Yifan He · Wenhao Zhao · Xiangyu Mo · Yang Xu · Hao Wei<br>
 Mingze Ma · Huan Li · Yifan Wu · Fei Gao · Zipeng Dai · Xin Zhou
 
-Zhejiang University · Differential Robotics
+<p align="center">
+  <img src="assets/affiliations.png" alt="Zhejiang University · Differential Robotics" width="660">
+</p>
 
 **arXiv 2026**
 
