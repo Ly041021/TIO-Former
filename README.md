@@ -60,6 +60,10 @@ Training and evaluation code | Coming soon
 Pretrained models and configurations | Coming soon
 Dataset and preparation tools | Coming soon
 
+## Acknowledgements
+
+This work was conducted during the author's internship at Differential Robotics, under the mentorship of [Zipeng Dai](https://scholar.google.com/citations?hl=zh-CN&user=e2c7Kt0AAAAJ).
+
 ## Citation
 
 If you find this work useful, please cite:
