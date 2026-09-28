@@ -65,7 +65,7 @@ Dataset and preparation tools | Coming soon
 
 ## Acknowledgements
 
-This work was conducted during the author's internship at Differential Robotics, under the mentorship of [Zipeng Dai](https://scholar.google.com/citations?hl=zh-CN&user=e2c7Kt0AAAAJ).
+This work was conducted during the author's internship at Differential Robotics, with Prof. Fei Gao as academic advisor and direct mentorship from [Zipeng Dai](https://scholar.google.com/citations?hl=zh-CN&user=e2c7Kt0AAAAJ).
 
 ## Citation
 
@@ -74,7 +74,7 @@ If you find this work useful, please cite:
 ```bibtex
 @misc{liu2026tioformer,
   title         = {TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer},
-  author        = {Liu, Yang and He, Yifan and Zhao, Wenhao and Mo, Xiangyu and Xu, Yang and Wei, Hao and Ma, Mingze and Li, Huan and Wu, Yifan and Dai, Zipeng and Zhou, Xin and Gao, Fei},
+  author        = {Liu, Yang and He, Yifan and Zhao, Wenhao and Mo, Xiangyu and Xu, Yang and Wei, Hao and Ma, Mingze and Li, Huan and Wu, Yifan and Gao, Fei and Dai, Zipeng and Zhou, Xin},
   year          = {2026},
   eprint        = {2609.17198},
   archivePrefix = {arXiv},
